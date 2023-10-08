@@ -1,0 +1,25 @@
+.todo-item {
+  width: 90%;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 4rem;
+  margin: 0.4rem 0;
+  background: #9ca3db;
+  border-radius: 5px;
+  color: #454b66;
+  min-height: 40px;
+}
+
+.todo-item.box--active {
+  background: #cfffb3;
+}
+
+
+.todo-item p {
+  width: 70%;
+  margin: 0 5%;
+  /*   height: 100%; */
+}

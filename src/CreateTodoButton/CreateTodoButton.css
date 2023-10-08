@@ -1,0 +1,17 @@
+.CreateTodoButton {
+  background: url("../assets/plus.svg") no-repeat;
+  background-size: 100%;
+  background-position: center center;
+  width: 5em;
+  height: 5em;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  right: 25px;
+  bottom: 25px;
+  display: flex;
+  transition: 0.3s ease;
+}
+.CreateTodoButton:hover {
+  transform: rotate(224deg);
+}
