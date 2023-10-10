@@ -1,8 +1,8 @@
-import "./TodosLoading.css";
+import React from 'react';
 
 function TodosError() {
   return (
-    <p>Cargando ...</p>
+    <p>Error ...</p>
   );
 }
 export { TodosError };

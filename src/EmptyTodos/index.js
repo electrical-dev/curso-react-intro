@@ -1,4 +1,3 @@
-import "./EmptyTodos.css";
 
 function EmptyTodos() {
   return (
