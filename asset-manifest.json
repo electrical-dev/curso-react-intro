@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/electrical-dev/curso-react-intro/static/css/main.303e0ed8.css",
-    "main.js": "/electrical-dev/curso-react-intro/static/js/main.729145e0.js",
-    "static/media/search.svg": "/electrical-dev/curso-react-intro/static/media/search.4f2b394c692fab48f1e23269991defc3.svg",
-    "index.html": "/electrical-dev/curso-react-intro/index.html",
-    "static/media/x.svg": "/electrical-dev/curso-react-intro/static/media/x.7bb4dbe73a5c6cbac4a206c7b977c390.svg",
-    "static/media/circle-check.svg": "/electrical-dev/curso-react-intro/static/media/circle-check.0971820a0f528f874d31160d8fa1298d.svg",
-    "main.303e0ed8.css.map": "/electrical-dev/curso-react-intro/static/css/main.303e0ed8.css.map",
-    "main.729145e0.js.map": "/electrical-dev/curso-react-intro/static/js/main.729145e0.js.map"
+    "main.css": "/curso-react-intro/static/css/main.303e0ed8.css",
+    "main.js": "/curso-react-intro/static/js/main.151dd15e.js",
+    "static/media/search.svg": "/curso-react-intro/static/media/search.4f2b394c692fab48f1e23269991defc3.svg",
+    "index.html": "/curso-react-intro/index.html",
+    "static/media/x.svg": "/curso-react-intro/static/media/x.7bb4dbe73a5c6cbac4a206c7b977c390.svg",
+    "static/media/circle-check.svg": "/curso-react-intro/static/media/circle-check.0971820a0f528f874d31160d8fa1298d.svg",
+    "main.303e0ed8.css.map": "/curso-react-intro/static/css/main.303e0ed8.css.map",
+    "main.151dd15e.js.map": "/curso-react-intro/static/js/main.151dd15e.js.map"
   },
   "entrypoints": [
     "static/css/main.303e0ed8.css",
-    "static/js/main.729145e0.js"
+    "static/js/main.151dd15e.js"
   ]
 }
